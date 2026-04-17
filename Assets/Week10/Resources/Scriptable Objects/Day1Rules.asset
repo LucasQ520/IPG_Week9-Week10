@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7f88f4729ded384392e3445dec2b1aa, type: 3}
+  m_Name: Day1Rules
+  m_EditorClassIdentifier: 
+  dayName: 1
+  ruleDescription: Check badge and department
+  checkBadgeValidity: 1
+  checkDepartment: 1
+  checkClearance: 0
+  checkEyeColor: 0
+  timeLimit: 20

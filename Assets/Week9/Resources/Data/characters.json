@@ -1,0 +1,56 @@
+{
+  "characters": [
+    {
+      "id": 0,
+      "name": "Ari Solen",
+      "origin": "Game Design Student",
+      "world": "Skyveil Kingdom",
+      "classType": "Mage",
+      "rarity": "Rare",
+      "hp": 80,
+      "mp": 140,
+      "attack": 30,
+      "specialAbility": "Cyclone Burst",
+      "image": "ari"
+    },
+    {
+      "id": 1,
+      "name": "Ren Takeda",
+      "origin": "Office Worker",
+      "world": "Ashen Empire",
+      "classType": "Knight",
+      "rarity": "Epic",
+      "hp": 150,
+      "mp": 60,
+      "attack": 45,
+      "specialAbility": "Flame Guard",
+      "image": "ren"
+    },
+    {
+      "id": 2,
+      "name": "Yuna Mirel",
+      "origin": "Chef",
+      "world": "Lunaris Forest",
+      "classType": "Alchemist",
+      "rarity": "Common",
+      "hp": 95,
+      "mp": 100,
+      "attack": 22,
+      "specialAbility": "Potion Bloom",
+      "image": "yuna"
+    },
+    {
+      "id": 3,
+      "name": "Kai Arden",
+      "origin": "Track Athlete",
+      "world": "Drakemarch",
+      "classType": "Spear Hero",
+      "rarity": "Legendary",
+      "hp": 130,
+      "mp": 75,
+      "attack": 60,
+      "specialAbility": "Thunder Lunge",
+      "image": "kai"
+    }
+  ]
+}
